@@ -7,7 +7,7 @@ This repository contains the code for our project "Thank You, Next: Predicting S
 The repository is structured with two main Jupyter Notebooks:
 
 - `Spotify_Song_Skipping_Prediction_Part_I_EDA.ipynb`: Contains the exploratory data analysis of the Spotify Sequential Skip Prediction Dataset.
-- `Spotify_Song_Skipping_Prediction_Part_II_LightGBM.ipynb`: Includes the modeling process using Gradient Boosted Trees, LSTM, Bi-LSTM, and Transformer models.
+- `Spotify_Song_Skipping_Prediction_Part_II_LightGBM.ipynb`: Includes the modeling process using Gradient Boosted Trees (In the future, LSTM, Bi-LSTM, and Transformer models will be included).
 
 ## Dataset
 
